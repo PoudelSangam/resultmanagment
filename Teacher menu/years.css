@@ -1,0 +1,22 @@
+.row{
+  margin-top: 5%;
+}
+.colum {
+  float: left;
+  width: 8.333%;
+  padding-right: 1px;
+  box-sizing: border-box;
+ 
+}
+.colum button {
+  background-color: #4CAF50; 
+  color: white;
+  padding: 5px 26px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  
+ 
+}

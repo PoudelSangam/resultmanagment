@@ -1,0 +1,53 @@
+
+    form
+	{
+	position: sticky;
+	background-color: white;
+	width: 85%;
+	max-width: 400px;
+	background-color: #f1f1f1;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	padding: 10px 20px;
+	box-sizing: border-box;
+	border-radius: 8px;
+	text-align: center;
+	box-shadow: 0 0 5px #000000a1;
+	font-family: "Montserrat",sans-serif;
+	margin-top: 10%;
+	z-index: -1;
+
+	}
+	.text
+	{
+		margin-bottom: 25px;
+		background-color: blue;
+		padding-bottom: 20px;
+		padding-top: 20px;
+		margin-top: 0px;
+		color: white;
+	}
+	
+	input[type=text], input[type=password],input[type=email]
+	 {
+         width: 90%;
+         padding: 12px 20px;
+         border: 1px solid #ccc;
+         box-sizing: border-box;
+         box-shadow: 0 0 3px #000000a1;
+
+     }
+ .button
+ {
+  background-color: green;
+  color: white;
+  padding: 8px 20px;
+  cursor: pointer;
+  width: 90%;
+  margin-top: 5px;
+
+}
+
+
